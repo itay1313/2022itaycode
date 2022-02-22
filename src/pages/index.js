@@ -18,11 +18,8 @@ const Index = () => {
           subTitle="החלטתי לבנות אתר חדש בעברית בגטסבי  "
         />
         <BasicTextModule
-          title="A super-fast theme that is easy to get started, using the power of
-            GatsbyJS"
-          content="Using modern CSS properties such as grid, this theme is optmised for
-            speed and mobile devices. Giving users an excellent experience on
-            any device. Future-proofing your product."
+          title="תוכלו למצוא פה מוצרים ותוספים מבית היוצר שלי ואו מוצרים שאני ממליץ עליהם באופן אישי"
+          content="מטרת האתר שלי היא אלף כל להעביר את הידע שרכשתי במשך שנות העיצוב והפיתוח שלי, וטו לעשות כסף דההה"
           link="/products"
           linkText="View Products"
         />
