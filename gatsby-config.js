@@ -16,8 +16,8 @@ module.exports = {
     instagramUsername: "barcadia",
     linkedinUsername: "barcadia",
     image: "/macbook-color.jpg",
-    siteUrl: "https://barcadia.netlify.com",
-    developerName: "Morgan Baker Development",
+    siteUrl: "https://itaycode.com",
+    developerName: "Itay Haephrati",
     developerUrl: "https://www.morganbaker.dev",
   },
   /* Your site config here */
